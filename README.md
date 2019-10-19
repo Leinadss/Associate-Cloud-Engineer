@@ -7,10 +7,7 @@ Google Africa Developer Scholarship Phase II
 
 Google Cloud Challenge I
 
-Tuesday  14th, October - Monday 22nd October 2019
-
-
-When does the Challenge start?
+*When does the Challenge start?*
 
 Starts on 14th October and ends on 22nd October 2019
 
