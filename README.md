@@ -14,6 +14,7 @@ Starts on 14th October and ends on 22nd October 2019
 What is the goal of the Challenge?
 
 To Deploy React Application using Docker and Google Cloud Platform
+
 Who can be a part of the challenge
 Only available to the Google Africa Developer Scholarship: Cloud Track Learners
 
