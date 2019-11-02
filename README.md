@@ -42,3 +42,6 @@ This will be an individual project but you can ask questions on your PLG slack g
 
 - Share your project with your teammates with details of your project so that they can give comments and feedback.
 - Share what you have done with the world. Share your project (Links/Screenshots) on social media using [#150DaysofALC4](https://twitter.com/search?q=%23150DaysOfALC4) [#GoogleAfricaDeveloperScholarship](https://twitter.com/search?q=%23GoogleAfricaDeveloperScholarship) and tag [@Andela_ALC](https://twitter.com/andela_alc/).
+
+- Find the answer to this challenge on https://medium.com/@nwanedeogechukwudaniel/google-cloud-platform-creating-a-react-app-2b4a3594c86c?source=friends_link&sk=f33922a64376072d49025880cde0d59f
+
